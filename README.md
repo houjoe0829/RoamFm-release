@@ -1,29 +1,29 @@
-# Roam FM - 安装包发布
+# Roam FM - Release Repository
 
-这个仓库用于存放 Roam FM 应用的各个版本安装包。
+This repository contains release packages for Roam FM application.
 
 > **The World's Radio in Your Menu Bar.**  
-> 一键收听来自世界各地的随机电台,专为专注和探索而设计的极简应用。
+> Instantly tune into a random live station from around the globe. A minimal app designed for focus and exploration.
 
-## 📦 下载安装包
+## 📦 Download
 
-请在 [Releases](../../releases) 页面下载最新版本的安装包。
+Download the latest release from the [Releases](../../releases) page.
 
-## 🖥️ 支持平台
+## 🖥️ Supported Platforms
 
 - macOS
 
-## 📋 版本说明
+## 📋 Version Notes
 
-每个版本的详细更新内容请查看对应的 Release Notes。
+Please check the Release Notes for detailed update information for each version.
 
-## 🔗 相关链接
+## 🔗 Links
 
-- [官方网站](https://fm.houjoe.me)
-- [隐私政策](https://fm.houjoe.me/privacy)
-- [服务条款](https://fm.houjoe.me/terms)
+- [Official Website](https://fm.houjoe.me)
+- [Privacy Policy](https://fm.houjoe.me/privacy)
+- [Terms of Service](https://fm.houjoe.me/terms)
 
-## 📄 许可证
+## 📄 License
 
 © 2025 Roam FM. All rights reserved.
 
